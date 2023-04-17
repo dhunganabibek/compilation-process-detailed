@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/bibekdhungana/Programming/C++/compilation-process-detailed",
+      "program": "/Users/bibekdhungana/Programming/C++/compilation-process-detailed/build/Debug/outDebug"
+    }
+  ]
+}
